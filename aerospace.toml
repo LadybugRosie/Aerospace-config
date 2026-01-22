@@ -166,28 +166,28 @@ on-mode-changed = []
     alt-7 = 'workspace 7'
     alt-8 = 'workspace 8'
     alt-9 = 'workspace 9'
-    alt-graphite_a = 'workspace A'
-    alt-graphite_b = 'workspace B'
-    alt-graphite_c = 'workspace C'
-    alt-graphite_d = 'workspace D'
-    alt-graphite_e = 'workspace E'
-    alt-graphite_f = 'workspace F'
-    alt-graphite_g = 'workspace G'
-    alt-graphite_i = 'workspace I'
-    alt-graphite_m = 'workspace M'
-    alt-graphite_n = 'workspace N'
-    alt-graphite_o = 'workspace O'
-    alt-graphite_p = 'workspace P'
-    alt-graphite_q = 'workspace Q'
-    alt-graphite_r = 'workspace R'
-    alt-graphite_s = 'workspace S'
-    alt-graphite_t = 'workspace T'
-    alt-graphite_u = 'workspace U'
-    alt-graphite_v = 'workspace V'
-    alt-graphite_w = 'workspace W'
-    alt-graphite_x = 'workspace X'
-    alt-graphite_y = 'workspace Y'
-    alt-graphite_z = 'workspace Z'
+    alt-graphite_a = 'workspace A' # [a]rc Browser
+    #    alt-graphite_b = 'workspace B'
+    #    alt-graphite_c = 'workspace C'
+    #    alt-graphite_d = 'workspace D'
+    alt-graphite_e = 'workspace E' # m[e]ssages
+    #    alt-graphite_f = 'workspace F' 
+    #    alt-graphite_g = 'workspace G'
+    #    alt-graphite_i = 'workspace I'
+    #    alt-graphite_m = 'workspace M' 
+    alt-graphite_n = 'workspace N' # [n]otes
+    #    alt-graphite_o = 'workspace O'
+    #    alt-graphite_p = 'workspace P'
+    #    alt-graphite_q = 'workspace Q'
+    alt-graphite_r = 'workspace R' # [r]eminders
+    #    alt-graphite_s = 'workspace S'
+    alt-graphite_t = 'workspace T' # [t]erminal
+    #    alt-graphite_u = 'workspace U'
+    #    alt-graphite_v = 'workspace V'
+    #    alt-graphite_w = 'workspace W'
+    #    alt-graphite_x = 'workspace X'
+    #    alt-graphite_y = 'workspace Y'
+    #    alt-graphite_z = 'workspace Z'
 
     # See: https://nikitabobko.github.io/AeroSpace/commands#move-node-to-workspace
     alt-shift-1 = 'move-node-to-workspace 1'
@@ -199,28 +199,28 @@ on-mode-changed = []
     alt-shift-7 = 'move-node-to-workspace 7'
     alt-shift-8 = 'move-node-to-workspace 8'
     alt-shift-9 = 'move-node-to-workspace 9'
-    alt-shift-graphite_a = 'move-node-to-workspace A'
-    alt-shift-graphite_b = 'move-node-to-workspace B'
-    alt-shift-graphite_c = 'move-node-to-workspace C'
-    alt-shift-graphite_d = 'move-node-to-workspace D'
-    alt-shift-graphite_e = 'move-node-to-workspace E'
-    alt-shift-graphite_f = 'move-node-to-workspace F'
-    alt-shift-graphite_g = 'move-node-to-workspace G'
-    alt-shift-graphite_i = 'move-node-to-workspace I'
-    alt-shift-graphite_m = 'move-node-to-workspace M'
-    alt-shift-graphite_n = 'move-node-to-workspace N'
-    alt-shift-graphite_o = 'move-node-to-workspace O'
-    alt-shift-graphite_p = 'move-node-to-workspace P'
-    alt-shift-graphite_q = 'move-node-to-workspace Q'
-    alt-shift-graphite_r = 'move-node-to-workspace R'
-    alt-shift-graphite_s = 'move-node-to-workspace S'
-    alt-shift-graphite_t = 'move-node-to-workspace T'
-    alt-shift-graphite_u = 'move-node-to-workspace U'
-    alt-shift-graphite_v = 'move-node-to-workspace V'
-    alt-shift-graphite_w = 'move-node-to-workspace W'
-    alt-shift-graphite_x = 'move-node-to-workspace X'
-    alt-shift-graphite_y = 'move-node-to-workspace Y'
-    alt-shift-graphite_z = 'move-node-to-workspace Z'
+    alt-shift-graphite_a = 'move-node-to-workspace A' # [a]rc browser
+    #    alt-shift-graphite_b = 'move-node-to-workspace B'
+    #    alt-shift-graphite_c = 'move-node-to-workspace C'
+    #    alt-shift-graphite_d = 'move-node-to-workspace D'
+    alt-shift-graphite_e = 'move-node-to-workspace E' # m[e]ssages
+    #    alt-shift-graphite_f = 'move-node-to-workspace F'
+    #    alt-shift-graphite_g = 'move-node-to-workspace G'
+    #    alt-shift-graphite_i = 'move-node-to-workspace I'
+    #    alt-shift-graphite_m = 'move-node-to-workspace M'
+    alt-shift-graphite_n = 'move-node-to-workspace N' # [n]otes
+    #    alt-shift-graphite_o = 'move-node-to-workspace O'
+    #    alt-shift-graphite_p = 'move-node-to-workspace P'
+    #    alt-shift-graphite_q = 'move-node-to-workspace Q'
+    alt-shift-graphite_r = 'move-node-to-workspace R' # [r]eminders
+    #    alt-shift-graphite_s = 'move-node-to-workspace S'
+    alt-shift-graphite_t = 'move-node-to-workspace T' # [t]erminal
+    #    alt-shift-graphite_u = 'move-node-to-workspace U'
+    #    alt-shift-graphite_v = 'move-node-to-workspace V'
+    #    alt-shift-graphite_w = 'move-node-to-workspace W'
+    #    alt-shift-graphite_x = 'move-node-to-workspace X'
+    #    alt-shift-graphite_y = 'move-node-to-workspace Y'
+    #    alt-shift-graphite_z = 'move-node-to-workspace Z'
 
     # See: https://nikitabobko.github.io/AeroSpace/commands#workspace-back-and-forth
     alt-tab = 'workspace-back-and-forth'
@@ -245,3 +245,25 @@ on-mode-changed = []
     alt-shift-graphite_j = ['join-with down', 'mode main']
     alt-shift-graphite_k = ['join-with up', 'mode main']
     alt-shift-graphite_l = ['join-with right', 'mode main']
+
+# Place frequently-used apps in respective workspaces on startup
+[[on-window-detected]]
+    if.app-id = 'company.thebrowser.Browser' # [a]rc browser
+    run = "move-node-to-workspace A"
+
+[[on-window-detected]]
+    if.app-id = 'com.mitchellh.ghostty'
+    if.window-title-regex-substring = "^(?!.*nvim).*$" # [t]erminal
+    run = "move-node-to-workspace T"
+
+[[on-window-detected]]
+    if.app-id = 'md.obsidian' # [n]otes
+    run = "move-node-to-workspace N"
+
+[[on-window-detected]]
+    if.app-id = 'com.TickTick.task.mac' # [r]eminders
+    run = "move-node-to-workspace R"
+
+[[on-window-detected]]
+    if.app-id = 'com.apple.MobileSMS' # m[e]ssages
+    run = "move-node-to-workspace E"
