@@ -252,8 +252,7 @@ on-mode-changed = []
     run = "move-node-to-workspace A"
 
 [[on-window-detected]]
-    if.app-id = 'com.mitchellh.ghostty'
-    if.window-title-regex-substring = "^(?!.*nvim).*$" # [t]erminal
+    if.app-id = 'com.mitchellh.ghostty' # [t]erminal
     run = "move-node-to-workspace T"
 
 [[on-window-detected]]
