@@ -136,6 +136,9 @@ on-mode-changed = []
     # end tell'
     # '''
 
+    # Make window fullscreen
+    alt-graphite_f = 'fullscreen'
+
     # See: https://nikitabobko.github.io/AeroSpace/commands#layout
     alt-graphite_slash = 'layout tiles horizontal vertical'
     alt-graphite_comma = 'layout accordion horizontal vertical'
